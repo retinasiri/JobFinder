@@ -1,0 +1,17 @@
+{
+  "name": "jobfinder",
+  "description": "Job Finder App",
+  "main": "index.js",
+  "authors": [
+    "Jeefer"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6"
+  }
+}
