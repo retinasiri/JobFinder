@@ -1,3 +1,6 @@
 npm install bower --save-dev
 bower init
      job finder app
+
+
+git remote add github "github repo"
